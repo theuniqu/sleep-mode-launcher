@@ -11,7 +11,7 @@
 
 </div>
 
-<p align="center"><img src="docs/home-v2.png" alt="Главный экран" width="860"></p>
+<p align="center"><img src="docs/home-v3.png" alt="Главный экран" width="860"></p>
 
 ## Скачать
 
@@ -39,8 +39,8 @@
 | **Лёгкий** | Скрывается в трей на время игры и освобождает память |
 
 <p align="center">
-  <img src="docs/mods-v2.png" alt="Каталог модов" width="420">
-  <img src="docs/skins-v2.png" alt="Выбор скина" width="420">
+  <img src="docs/mods-v3.png" alt="Каталог модов" width="420">
+  <img src="docs/skins-v3.png" alt="Выбор скина" width="420">
 </p>
 
 ## Вход в аккаунт
