@@ -4,9 +4,9 @@
 
 # Sleep Mode Launcher
 
-**Минималистичный лаунчер Minecraft Java Edition в стиле Apple**
+**Минималистичный лаунчер Minecraft Java Edition**
 
-[![Скачать](https://img.shields.io/github/v/release/theuniqu/sleep-mode-launcher?label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&style=for-the-badge&color=7B83FF)](https://github.com/theuniqu/sleep-mode-launcher/releases/latest)
+[![Скачать](https://img.shields.io/github/v/release/theuniqu/sleep-mode-launcher?label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&style=for-the-badge&color=3DDC97)](https://github.com/theuniqu/sleep-mode-launcher/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-1f6feb?style=for-the-badge)
 
 </div>
@@ -35,7 +35,7 @@
 | **Умные настройки** | Автоподбор памяти и аргументов JVM, профили графики «Слабый ПК / Средний / Максимум» |
 | **Миры под защитой** | Автоматические копии миров после игры и восстановление в один клик |
 | **Диагностика** | Проверка связи, диска, памяти, Java и целостности файлов; анализ падений игры с подсказками и отключением виновного мода; очистка лишнего |
-| **Оформление** | Тёмная и светлая темы, готовые темы, живые обои, 3D-предпросмотр скина |
+| **Оформление** | Тёмная и светлая темы, готовые темы-настроения, живые обои, 3D-предпросмотр скина |
 | **Лёгкий** | Скрывается в трей на время игры и освобождает память |
 
 <p align="center">
