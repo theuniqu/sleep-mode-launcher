@@ -6,12 +6,12 @@
 
 **Минималистичный лаунчер Minecraft Java Edition**
 
-[![Скачать](https://img.shields.io/github/v/release/theuniqu/sleep-mode-launcher?label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&style=for-the-badge&color=3DDC97)](https://github.com/theuniqu/sleep-mode-launcher/releases/latest)
+[![Скачать](https://img.shields.io/github/v/release/theuniqu/sleep-mode-launcher?label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C&style=for-the-badge&color=D2A6D4)](https://github.com/theuniqu/sleep-mode-launcher/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20x64-1f6feb?style=for-the-badge)
 
 </div>
 
-<p align="center"><img src="docs/home-v3.png" alt="Главный экран" width="860"></p>
+<p align="center"><img src="docs/home-v4.png" alt="Главный экран" width="860"></p>
 
 ## Скачать
 
@@ -39,8 +39,8 @@
 | **Лёгкий** | Скрывается в трей на время игры и освобождает память |
 
 <p align="center">
-  <img src="docs/mods-v3.png" alt="Каталог модов" width="420">
-  <img src="docs/skins-v3.png" alt="Выбор скина" width="420">
+  <img src="docs/mods-v4.png" alt="Каталог модов" width="420">
+  <img src="docs/skins-v4.png" alt="Выбор скина" width="420">
 </p>
 
 ## Вход в аккаунт
